@@ -10,5 +10,6 @@ Answer- (a) x deletes letter
         (c) d$ deletes the sentence after the period and dd delets the entire line.
 
 4. You're editting the document (in edit mode). Explain how you'll replace one word with another?
-Answer- Delete the word using dw and then append the sentance using A.
+Answer- :s/old/new use this to replace the word.
+This is the old sentence
 

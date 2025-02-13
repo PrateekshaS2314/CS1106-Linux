@@ -1,0 +1,14 @@
+1. How do you change the mode from edit to read only?
+Answer- <Esc> key
+
+2. How do you (a) save the file you are editting, and (b) close the file on the terminal?
+Answer- :wq is to save and exit the file
+
+3. How do you delete (a) letter (b) word (c) sentence?
+Answer- (a) x deletes letter 
+        (b) dw deletes word 
+        (c) d$ deletes the sentence after the period and dd delets the entire line.
+
+4. You're editting the document (in edit mode). Explain how you'll replace one word with another?
+Answer- Delete the word using dw and then append the sentance using A.
+
